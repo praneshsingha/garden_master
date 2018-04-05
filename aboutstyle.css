@@ -1,0 +1,35 @@
+*
+{
+	padding: 0;
+	margin:0;
+}
+.header
+{
+	width: 100%;
+	background-image:url("pic.jpeg");
+}
+.header-one img
+{
+	margin-top: 106px;
+    height: 360px;
+    width: 518px;
+
+}
+.header-two
+{
+	background:;
+	float:right;
+	margin-top: -335px;
+   margin-left: 549px;
+    font-size: 30px;
+    margin-right: 20px;
+    font-family: sans-serif;
+   height:400px;
+   position:absolute;
+}
+.last
+{
+	background-color:green;
+	height: 100px;
+	width: 100%;
+}

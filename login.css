@@ -1,0 +1,129 @@
+ *
+{
+	padding: 0px;
+	margin: 0px;
+}
+body
+{
+	/*background: url(image/register.jpg);*/
+
+}
+.header1
+{
+ 
+    background:#f2f2f2;
+	height:88px;
+	width: 100%;
+	margin-top:0px;
+
+}
+#top-title1
+{
+	max-height: 10px;
+  color:#83bb22; 	
+  line-height:286px ;
+  margin: -212px 106px;
+  font-size: 40px;
+  font-family: fantasy;
+
+}
+#top-title1>h3
+{
+	font-family:fantasy; 
+
+}
+#plant1
+{
+padding:20px;
+position: static;
+}
+.login-container1
+{
+	float: right;
+	color: black;
+	position: initial;
+	right:100px;
+	top:40px;
+	text-decoration: none;
+	margin-right:15px;
+}
+#btn123
+{
+	background-color:#555555; 
+    color:white;
+    text-align: center;
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; 
+    cursor: pointer;
+    width:100px; 
+    height:30px;
+    font-size:16px;
+    font-family: 'Cabin', sans-serif;
+    border-radius: 4px;
+    margin-left: 53px;
+
+}
+#btn123:hover
+{
+	
+	cursor: pointer;
+	color:black;
+	background: #4CAF50;
+}
+.registration-section
+{
+	width:500px;
+	height:650px;
+	margin: auto;
+	position: relative;
+	margin-left: 810px;
+	margin-top: 30px;
+	background-color:#83bb22;
+	border-radius: 10px;
+}
+.registration-section p
+{
+	font-size:40px;
+	margin-top: 20px;
+	font-weight: bold;
+	margin-left: 84px;
+}
+.input-field
+{
+	margin-top:20px;
+	height:10px;
+	width:360px;
+	/*margin-right: 10px;*/
+	border-radius:3px;
+	padding: 10px;
+	background-color:#f2f2f2;
+	margin-left: 53px;
+
+}
+footer
+{
+	margin-top:20px;
+}
+.first-section
+{
+
+	background-color:#555555;
+	height:200px;
+}
+.second-section
+{
+	background-color:#83bb22;
+	height:30px;
+}
+.about-us
+{
+
+
+    width: 356px;
+    height: 136px;
+    margin-top:-148px;
+    margin-left:807px;
+}

@@ -1,0 +1,61 @@
+
+
+html,body
+{
+margin:0px;
+padding: 0px;
+height: 100%;
+width: 100%;
+}
+.intro
+{
+	height:100%;
+	top: 0;
+	display: table;
+	width: 100%;
+	margin: auto;
+	background: url(image/pic7.jpg);
+	background-size: cover;
+	opacity: ;
+    filter: alpha(opacity=50); 
+}
+.inner
+{
+	display: table-cell;
+	vertical-align:middle;
+	width: 100px;
+	max-width: none;
+}
+.content
+{
+	max-width:25%;
+	margin: auto;
+	text-align: center;
+}
+.content h1
+{
+	font-family:-webkit-pictograph;
+	color:cornsilk;
+	text-shadow:;
+	font-size: 72px;
+	margin-left: -130%;
+	margin-top: 53px;
+	opacity: 10;
+}
+.btn
+{
+	border-radius: 36px;
+	font-family: fantasy;
+	margin-left: 25%;
+	color: hsl(58, 41%, 51%);
+	font-size: 26px;
+	padding: 11px 31px;
+	border: solid rgb(235, 234, 167);
+	text-transform: uppercase;
+	text-decoration: none;
+}
+.btn:hover
+{
+	color: green;
+	border: solid #fff 3px;
+}

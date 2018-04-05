@@ -1,0 +1,157 @@
+->About the website:
+		-This website is about gardening where people can register for a gardener to maintain there arden
+		-This is also sells gardening tools.
+
+->Admin Page: 
+		-Admin Username:admin@gmail.com
+		-Password:123456
+
+->Some user and password:
+		Username 						password
+		mama@gmail.com 			&&		mama
+		lucy1281998@gmail.com 	&& 		rahul
+		sumit@gmail.com 		&& 		sumit
+
+
+Step to open the website with Database //
+		Step1:	Install Wamp for windows user and Xamp for linux user.
+		Step2:	open "localhost/phpmyadmin".
+		Step3:	Go to import and import file "Databasr/gardenmaster.sql".
+
+		-After this process your website will be ready to go.
+		-you can login as admin from the same login page as the user.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		*Please fix bugs if you found any to work properly*
